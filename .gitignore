@@ -4,3 +4,12 @@
 *.jar
 *.war
 *.ear
+
+# eclipse project files
+.classpath
+.project
+.settings/
+devDb.h2.db
+target-eclipse/
+target/
+
